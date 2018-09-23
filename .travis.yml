@@ -69,6 +69,6 @@ deploy:
       - release/peepcoin-qt-x86_64.exe
   skip_cleanup: true
   on:
-    repo: PXN-Foundation/Peepcoin
+    repo: PXN-Foundation/tacrazymage
     tags: true
     branch: Temp
