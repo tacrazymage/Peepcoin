@@ -71,4 +71,4 @@ deploy:
   on:
     repo: tacrazymage/Peepcoin
     tags: true
-    branch: Temp
+    branch: master
